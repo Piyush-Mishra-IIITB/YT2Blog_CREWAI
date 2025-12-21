@@ -10,4 +10,4 @@ This project automates the process of creating blog posts from YouTube videos. U
 - **Automation:** Uses CrewAI framework with custom agents and tools for end-to-end content creation.
 - **Output:** give the blog
 
-## Requirements
+
